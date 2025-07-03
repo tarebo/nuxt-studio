@@ -2,6 +2,4 @@
 
 [Back home](/)
 
-:br
-
-![img-3661.jpg](/img-3661.jpg){:width='300'}
+:br ![img-3661.jpg](/img-3661.jpg){:width='300'}

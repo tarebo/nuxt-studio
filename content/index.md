@@ -1,5 +1,8 @@
 # Welcome to Nuxt Content Starter
 
+::alert{.警告}
+::
+
 This is the main page displaying Markdown located at [content/index.md](https://github.com/nuxt/starter/blob/content/content/index.md).
 
 Move to [about](/about) page.
